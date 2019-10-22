@@ -1,6 +1,6 @@
 pragma solidity ^0.4.18;
 
-import 'openzeppelin-solidity/contracts/math/SafeMath.sol';
+import 'https://github.com/ConsenSys/real-estate-standards/blob/master/node_modules/openzeppelin-solidity/contracts/math/SafeMath.sol';
 
 contract GatekeeperOne {
 
