@@ -1,4 +1,4 @@
-pragma solidity ^0.4.18;
+pragma solidity ^0.4.21;
 
 import 'https://github.com/ConsenSys/real-estate-standards/blob/master/node_modules/openzeppelin-solidity/contracts/math/SafeMath.sol';
 
